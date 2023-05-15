@@ -23,7 +23,7 @@ img {
 .name {
   position: relative;
   font-family: "Montserrat", sans-serif;
-  color: rgba(255,255,255,1);
+  color: #000;
   margin: auto;
   width: 100%;
   text-align: center;
@@ -41,7 +41,7 @@ img {
 
 .hr1 {
   width: 50%;
-  color: white;
+  color: #fff;
 }
 
 .container {
@@ -164,19 +164,19 @@ img {
   h1 {
     margin-bottom: 0px;
     font-size: 2vw;
-    color: rgba(255,255,255,1);
+    color: #000;
   }
 
   h2 {
     font-size: 1.5vw;
-    color: rgba(255,255,255,1);
+    color: #000;
     margin-top: 0px;
     margin-bottom: 0px;
   }
 
   h3 {
     font-size: 1.25vw;
-    color: rgba(255,255,255,1);
+    color: #000;
     margin-top: 0px;
   }
 }
